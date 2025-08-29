@@ -21,7 +21,26 @@
 // //"33" =>33
 //"33abc"=>Nan
 //true=>1;false=>0
-let isLoggedIn=1
-let booleanIsLoggedIn=Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
-//1=>true or false
+// let isLoggedIn=""
+// let booleanIsLoggedIn=Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn)
+// //1=>true or 0=false
+// //"aryan"=>true
+// let someNumber=33
+// let stringNumber=String(someNumber)
+// console.timeLog(stringNumber);
+// let value=3
+// let negValue=-value
+// console.log(negValue)
+// let str1="Hello"
+// let str2= "World"
+// let str3=str1+str2
+// console.log(str3);
+// console.log("1"+2);
+// console.log(1+"2")
+// console.log("1"+2+2);
+// //observation
+// console.log(1+2+"2");
+let gameCounter=100;
+++gameCounter;
+console.log(gameCounter)
